@@ -1,0 +1,27 @@
+#06 - Jan - 2020
+Why Java?
+What is a Java Virtual Machine?
+What is called Platform Independent?
+Why Java is called a Programming Language and a platform?
+
+1. Classes
+2. Object creation [Parent-child or inherited classes relationship]
+3. Constructor
+4. This keyword
+5. Conditional statements
+6. Interface
+
+
+4. Access Specifiers
+6. Local variables and instance variables
+7. Static keyword and static block
+abstract class
+Types of classes
+1. static class
+2. Inner class
+3. final class
+4. anonymous class
+5. wrapper class
+
+
+Why variables inside a class are initialised by default?
